@@ -16,19 +16,30 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
-  icon: r-project
-  icon_pack: fab
-  name: R
-- description: 100%
-  icon: chart-line
-  icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
+# - description: 90%
+#   icon: r-project
+#   icon_pack: fab
+#   name: R
+# - description: 100%
+#   icon: chart-line
+#   icon_pack: fas
+#   name: Statistics
+# - description: 10%
+#   icon: camera-retro
+#   icon_pack: fas
+#   name: Photography
 
+
+-  name: Cadence
+   description: Mixed-signal simulation using SpectreVerilog /AMS, custom layout using LVS/DRC, digital synthesis, auto place&route etc
+
+-  name: Modeling 
+   description: Matlab, VerilogA , Simplis
+
+-  name: PCB Tools  
+   description: PADS/Altium Design for 2/4-layer PCB prototyping
+
+   
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
@@ -44,3 +55,4 @@ feature:
 #  name: "Surfing"
 #  description: "90%"
 ---
+
