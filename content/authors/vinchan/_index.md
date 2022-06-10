@@ -63,7 +63,7 @@ email: "eecmp+netify@outlook.com"
 ---
 Man Pun Chan (S’08–M’14) received the B.Eng., M.Phil., and Ph.D. degrees in electronic and computer engineering from the Hong Kong University of Science and Technology (HKUST), Hong Kong, China, in 2006, 2008 and 2013, respectively. 
 
-Dr. Chan was a part-time IC Design Engineer from Jan. 2005 to May 2006 in Lexiwave Technology (HK) Ltd, where he contributed on the company's first-generation RFIC. After his Ph.D graduation, he joined Marvell Hong Kong Ltd as a design engineer in power management team, working in PMIC products until 2015. He currently with MediaTek USA Inc. (Woburn,MA) ., working as a senior engineer in R&D department and focuing on next genernation power managment systems. 
+Dr. Chan was a part-time IC Design Engineer from 2005 to 2006 in Lexiwave Technology (HK) Ltd, where he contributed on the company's first-generation RFIC. After his Ph.D graduation, he joined Marvell Hong Kong Ltd as a design engineer in power management team, working in PMIC products until 2015. He currently with MediaTek USA Inc. (Woburn,MA) ., working as a senior engineer in R&D department and focuing on next genernation power managment systems. 
 
 Dr. Chan was the recipient of the STMicroelectronics Ltd Scholarship in 2005. He has won first prize both in the Student Paper Contest of the 2008 IEEE International Conference on Electron Devices and Solid-State Circuits (EDSSC) and the 2010 IEEE Asia Pacific Conference on Circuits and Systems (APCCAS). He currently has 4 pending US patents for his works at MediaTek.
 
